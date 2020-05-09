@@ -6,8 +6,7 @@ public class DbHelper {
     private static DbHelper dbHelper;
     
     private static final String dbUsername = "postgres";
-    private static final String dbPassword = "bnmdbm12346";
-   // private static final String dbUrl = "jdbc:postgresql://localhost:5432/cooler_smart_device";
+    private static final String dbPassword = "";
     private static final String dbUrl = "jdbc:postgresql://localhost:5432/cooler_smart_device";
     private DbHelper() {}
     
